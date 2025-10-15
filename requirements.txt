@@ -1,0 +1,6 @@
+gradio
+whisper
+pydub
+numpy
+torch
+faster-whisper
